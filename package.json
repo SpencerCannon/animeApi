@@ -1,0 +1,17 @@
+{
+  "name": "animeApi",
+  "version": "1.0.0",
+  "description": "Initialize node/package json:\r * npm init -y\r Install the following dependencies:\r * npm i express pg\r * npm install --save cors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  }
+}
